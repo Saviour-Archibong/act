@@ -1,0 +1,5 @@
+ json.load(): change from json text to python dictionary
+
+// json.load(): reads JSON data from a file.
+
+json.loads(): converts a JSON string into Python data
